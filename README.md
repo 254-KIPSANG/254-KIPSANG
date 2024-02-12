@@ -13,15 +13,14 @@
 
 - 👯 I’m looking to collaborate on **AI FIELD**
 
-- 🤝 I’m looking for help with **Machine Learning**
 
-- 📝 I regularly write articles on [audiobooks](audiobooks)
+                                                                    - 🤝 I’m looking for help with **Machine Learning**
 
-- 💬 Ask me about **Data Science and Physics**
+                                                                     - 💬 Ask me about **Data Science and Physics**
 
-- 📫 How to reach me **kipsangcyrus1@gmail.com**
+                                                                      - 📫 How to reach me **kipsangcyrus1@gmail.com**
 
-- ⚡ Fun fact **I think alot**
+                                                                      - ⚡ Fun fact **I think alot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
