@@ -22,11 +22,3 @@
 - 📫 How to reach me **kipsangcyrus1@gmail.com**
 
 - ⚡ Fun fact **I think alot**
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=254-kipsang&show_icons=true&locale=en&layout=compact" alt="254-kipsang" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=254-kipsang&show_icons=true&locale=en" alt="254-kipsang" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=254-kipsang&" alt="254-kipsang" /></p>
